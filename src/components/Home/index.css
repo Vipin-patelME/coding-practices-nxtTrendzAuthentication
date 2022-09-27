@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.nav-style {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-between;
+  align-items: auto;
+}
+.cloth-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+.cloths-image {
+  height: 200px;
+}
